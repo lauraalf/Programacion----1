@@ -1,0 +1,14 @@
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\bin\Debug\net10.0\Centralita Telefonica -2.exe
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\bin\Debug\net10.0\Centralita Telefonica -2.deps.json
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\bin\Debug\net10.0\Centralita Telefonica -2.runtimeconfig.json
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\bin\Debug\net10.0\Centralita Telefonica -2.dll
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\bin\Debug\net10.0\Centralita Telefonica -2.pdb
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\obj\Debug\net10.0\Centralita Telefonica -2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\obj\Debug\net10.0\Centralita Telefonica -2.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\obj\Debug\net10.0\Centralita Telefonica -2.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\obj\Debug\net10.0\Centralita Telefonica -2.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\obj\Debug\net10.0\Centralita Telefonica -2.dll
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\obj\Debug\net10.0\refint\Centralita Telefonica -2.dll
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\obj\Debug\net10.0\Centralita Telefonica -2.pdb
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\obj\Debug\net10.0\Centralita Telefonica -2.genruntimeconfig.cache
+C:\Users\laura\OneDrive\Documents\UNIBE\Cuatrimestre 5\Programación 1\Tareas segunda mitad\Centralita Telefonica -2\Centralita Telefonica -2\obj\Debug\net10.0\ref\Centralita Telefonica -2.dll
